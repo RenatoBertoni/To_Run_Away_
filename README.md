@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a simple text game, "To Run Away", written in Java (structured) by a group of five students (me included) during their first semester of a Bachelor of Technology Course in Systems Analysis and Development, in the second semester of 2020. The discipline was named "Projeto Integrador", and it was an application/practice for the concepts learned in another discipline in which the students learned programming logic using the Java programming language. The group was (Github ids): valterMoura, Victor0500, katiaschvabe, daimonssg,     RenatoBertoni. 
+This is a simple text game, "To Run Away", written in Java (structured) by a group of five students (me included) during their first semester of a Bachelor of Technology Course in Systems Analysis and Development, in the second semester of 2020, at Senac Santo Amaro, São Paulo/SP. The discipline was named "Projeto Integrador", and it was an application/practice for the concepts learned in another discipline in which the students learned programming logic using the Java programming language. The group was (Github ids): valterMoura, Victor0500, katiaschvabe, daimonssg,     RenatoBertoni. 
 
 The game was written by dividing the tasks among the group members, who then wrote their parts in different java files. The game is about a person how attempts to leave a building. Different flours were written by different people.  
 
